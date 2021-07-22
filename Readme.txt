@@ -1,0 +1,1 @@
+This is a simple app for applying android basics like linear layout ,views and how to interact with it or change it. 
